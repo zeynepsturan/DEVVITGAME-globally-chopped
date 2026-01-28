@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Devvit React Starter
 
 A starter to build web applications on Reddit's developer platform
@@ -29,3 +30,6 @@ A starter to build web applications on Reddit's developer platform
 ## Cursor Integration
 
 This template comes with a pre-configured cursor environment. To get started, [download cursor](https://www.cursor.com/downloads) and enable the `devvit-mcp` when prompted.
+=======
+# DEVVITGAME-globally-chopped
+>>>>>>> e304c2264050b2b57379fc3da4458bdac88cccb9
