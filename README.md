@@ -1,18 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-## Devvit React Starter
-=======
 # 🎵 Globally Chopped
->>>>>>> f55ca0ed2d3e54e7235094e860746657d3fb14a5
 
 ## [![Play on Reddit](https://img.shields.io/badge/Play-On%20Reddit-FF4500?style=for-the-badge&logo=reddit)](https://www.reddit.com/r/globally_chopped_dev/comments/1qhywbm/globallychopped/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 A daily music trivia game built on the **Reddit Devvit** platform. Test your hip-hop knowledge by guessing 5 different album covers every day.
 
 ## 🖼️ Preview
-![Game Interface](./screenshots/preview.jpeg)
-![Gameplay](./screenshots/play.jpeg)
 
+<p align="center">
+  <img src="./screenshots/preview.jpeg" width="45%" />
+  <img src="./screenshots/play.jpeg" width="45%" />
+</p>
 
 ## 🚀 Features
 
@@ -30,12 +27,6 @@ A daily music trivia game built on the **Reddit Devvit** platform. Test your hip
 * **Database:** Redis (Used for game state, daily album persistence, and non-expiring global history).
 * **Language:** TypeScript.
 
-<<<<<<< HEAD
-This template comes with a pre-configured cursor environment. To get started, [download cursor](https://www.cursor.com/downloads) and enable the `devvit-mcp` when prompted.
-=======
-# DEVVITGAME-globally-chopped
->>>>>>> e304c2264050b2b57379fc3da4458bdac88cccb9
-=======
 ## 📂 Project Structure
 
 * `src/main.ts`: Core server logic, API endpoints, and Redis integration.
@@ -74,4 +65,3 @@ The game ensures a unique daily experience by using a global history key in Redi
 ---
 
 **Developer:** [zeynepsturan](https://github.com/zeynepsturan)  
->>>>>>> f55ca0ed2d3e54e7235094e860746657d3fb14a5
