@@ -5,8 +5,9 @@
 A daily music trivia game built on the **Reddit Devvit** platform. Test your hip-hop knowledge by guessing 5 different album covers every day.
 
 ## 🖼️ Preview
-![Game Interface](./screenshots/preview.png)
-*Note: Create a `/screenshots` folder and add your `preview.png` to see the image here.*
+![Game Interface](./screenshots/preview.jpeg)
+![Gameplay](./screenshots/gameplay.jpeg)
+
 
 ## 🚀 Features
 
