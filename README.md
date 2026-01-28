@@ -11,7 +11,7 @@ A daily music trivia game built on the **Reddit Devvit** platform. Test your hip
 
 ## 🖼️ Preview
 ![Game Interface](./screenshots/preview.jpeg)
-![Gameplay](./screenshots/gameplay.jpeg)
+![Gameplay](./screenshots/play.jpeg)
 
 
 ## 🚀 Features
